@@ -1,0 +1,20 @@
+/* Tailwind 4.0 */
+@import 'tailwindcss';
+
+/* Settings */
+p,
+li,
+ul,
+ol,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  cursor: default;
+  font-family: 'Inter', sans-serif;
+  /* color:slategray; */
+}
